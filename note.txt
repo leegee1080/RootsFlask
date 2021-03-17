@@ -1,0 +1,15 @@
+MVC model view controller framework.
+
+
+oppinaited framwork---------------------micro mvc framwork
+full featureed				flask -framwork
+minimal setup				bare minimum
+more learning				lightweight
+steep learning curve			
+django -framwork
+rails -framework
+
+pip freeze > requirements.txt for requirments
+
+
+html is not code?
